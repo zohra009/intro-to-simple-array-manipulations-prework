@@ -22,7 +22,10 @@ end
 def using_insert(array, item)
   array.insert(item) 
 end 
-def using_uniq(arra)
+def using_uniq(array)
+  array.uniq 
+end
+def 
 
 
 
