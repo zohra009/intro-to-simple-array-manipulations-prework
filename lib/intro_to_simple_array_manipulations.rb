@@ -16,7 +16,16 @@ end
 def shift_with_args(array)
   array.shift(2)
 end 
-def 
+def using_concat(array)
+  array.concat 
+end
+def using_insert(array)
+  array.insert 
+end 
+
+
+
+
   
   
   
